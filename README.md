@@ -215,6 +215,6 @@ Feel free to contribute, and add your name to the credits, please use the develo
 | Gardockt      | [contributions](credits/gardockt.md)      |        |
 | qoheniac      | [contributions](credits/qoheniac.md)      |        |
 | mathisto      | [contributions](credits/mathisto.md)      |        |
-Change 1 in branch2 
-Change 2 in branch2 
-Change 3 in branch2 
+Change 1 in branch1 
+Change 2 in branch1 
+Change 3 in branch1 
